@@ -1,1 +1,1 @@
-# CPE317-PROJECTS
+CPE 317 Visual Programming setup complete
